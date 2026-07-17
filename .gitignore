@@ -9,6 +9,8 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+# Keep the example templates — they help evaluators/collaborators set up
+!.env.example
 
 # ── Build outputs ─────────────────────────────────────────────
 build/
